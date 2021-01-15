@@ -7,4 +7,4 @@ Alternative for web chat apps
 
 Group messages
 Show unseen seen messages with notifications
-
+Create emojis
