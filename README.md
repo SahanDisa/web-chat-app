@@ -6,5 +6,7 @@ Alternative for web chat apps
 # Features
 
 Group messages
+
 Show unseen seen messages with notifications
+
 Create emojis
