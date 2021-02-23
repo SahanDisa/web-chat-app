@@ -7,6 +7,14 @@ Alternative for web chat apps
 
 Group messages
 
-Show unseen seen messages with notifications
+Show unseen/seen messages with notifications
 
 Create emojis
+
+# Technology Used
+
+# Future Enhancements
+
+# How to contribute
+
+
